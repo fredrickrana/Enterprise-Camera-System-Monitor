@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+**/node_modules
+
+# build files
+dist
+**/dist
+.vite
+**/.vite
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# logs
+npm-debug.log*
